@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitthoughts" alt="arpitthoughts" /></a> </p>
 
-- 🌱 I’m currently learning **Rest Assured API Automation**
+- 🌱 I’m currently learning **Playwright Web Automation**
 
-- 👯 I’m looking to collaborate on **Selenium WebDriver**
+- 👯 I’m looking to collaborate on **Selenium WebDriver/Rest Assured**
 
 - 📫 How to reach me **arjaria.arpit55@gmail.com**
 
